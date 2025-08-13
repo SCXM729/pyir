@@ -1,0 +1,10 @@
+.vscode/
+.cache/
+.clang-format
+
+*.log
+
+
+build/
+md/
+third-party/
